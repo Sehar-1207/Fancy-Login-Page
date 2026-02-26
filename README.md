@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Fancy Login Page Logo](path-to-logo) <!-- TODO: Add project logo -->
 
 [![GitHub stars](https://img.shields.io/github/stars/Sehar-1207/Fancy-Login-Page?style=for-the-badge)](https://github.com/Sehar-1207/Fancy-Login-Page/stargazers)
 
@@ -11,8 +10,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Sehar-1207/Fancy-Login-Page?style=for-the-badge)](https://github.com/Sehar-1207/Fancy-Login-Page/issues)
 
 **A modern, responsive, and visually appealing login page built purely with HTML and CSS.**
-
-[Live Demo](https://demo-link.com) <!-- TODO: Add live demo link if available (e.g., GitHub Pages) -->
 
 </div>
 
@@ -31,19 +28,6 @@ This repository presents a sleek and attractive login page meticulously crafted 
 -   📝 **Sign-Up Prompt**: A clear call to action for new users.
 -   🖼️ **Dynamic Background Image**: An attractive background image enhances the visual appeal.
 
-## 🖥️ Screenshots
-
-<!-- TODO: Add actual screenshots of the login page here -->
-<!-- Example: -->
-<!-- ![Desktop Screenshot](assets/desktop-screenshot.png) -->
-<!-- ![Mobile Screenshot](assets/mobile-screenshot.png) -->
-<div align="center">
-    <h3>Desktop View</h3>
-    <img src="https://via.placeholder.com/800x450?text=Desktop+Screenshot" alt="Desktop Screenshot" style="max-width:100%;">
-    <br><br>
-    <h3>Mobile View</h3>
-    <img src="https://via.placeholder.com/300x500?text=Mobile+Screenshot" alt="Mobile Screenshot" style="max-width:40%;">
-</div>
 
 ## 🛠️ Tech Stack
 
